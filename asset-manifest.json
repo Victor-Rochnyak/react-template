@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Victor-Rochnyak/portfolio_react/static/css/main.7acaea2f.css",
+    "main.js": "/Victor-Rochnyak/portfolio_react/static/js/main.07d3183d.js",
+    "index.html": "/Victor-Rochnyak/portfolio_react/index.html",
+    "main.7acaea2f.css.map": "/Victor-Rochnyak/portfolio_react/static/css/main.7acaea2f.css.map",
+    "main.07d3183d.js.map": "/Victor-Rochnyak/portfolio_react/static/js/main.07d3183d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.07d3183d.js"
+  ]
+}
